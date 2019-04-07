@@ -11,6 +11,7 @@ public class Consumer {
 
     public static void main(String[] args) throws Exception {
 
+        // this is my edit
         ConnectionFactory factory = new ConnectionFactory();
 
         factory.setHost("192.168.236.128");
