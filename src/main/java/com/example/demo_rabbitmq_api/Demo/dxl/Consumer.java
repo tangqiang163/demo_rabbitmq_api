@@ -13,6 +13,7 @@ public class Consumer {
 
         // this is my edit
         // this is commit by my new branch
+        // this is commit by new branch two
         ConnectionFactory factory = new ConnectionFactory();
 
         factory.setHost("192.168.236.128");
